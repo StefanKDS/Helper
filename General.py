@@ -272,5 +272,3 @@ def get_std_callbacks(projectname):
     callbacks = [tensorboard, reduce_lr, early_stopping]
 
     return callbacks
-
-
